@@ -72,17 +72,19 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+<img width="1495" height="853" alt="Image" src="https://github.com/user-attachments/assets/19fef79f-c6e3-46de-a2ba-18ca1c7cbf05" />(Interface)
 *Main interface showing camera capture and upload options*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+<img width="793" height="928" alt="Image" src="https://github.com/user-attachments/assets/4c232271-6aca-4cdd-9535-3aa0e45d014b" />(home page)
 *AI analysis results displaying detected hairstyle and suggestions*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Responsive design working on mobile devices*
+ ![Image](https://github.com/user-attachments/assets/36d0f4d0-5d99-4831-a319-9e4a8cc5d49a)(responsive on phone)
+
+# video
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/user-attachments/assets/e2ce464c-734e-4051-9519-9432885c6dcd)
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
+<img width="768" height="18" alt="Image" src="https://github.com/user-attachments/assets/28771898-d9ed-464b-ab7c-e9e6eada8f9d" />
 *User captures photo → Express server processes → Gemini AI analyzes → Results displayed*
 
 ## Team Contributions
