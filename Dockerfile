@@ -1,6 +1,5 @@
 FROM node:20.18.1-alpine
 WORKDIR /app
-RUN sleep 999999
 COPY package*.json ./
 RUN npm ci --omit=dev
 COPY . .
