@@ -71,6 +71,7 @@ npm run dev
 ### Project Documentation
 For Software:
 
+
 # Screenshots (Add at least 3)
 <img width="1495" height="853" alt="Image" src="https://github.com/user-attachments/assets/19fef79f-c6e3-46de-a2ba-18ca1c7cbf05" />(Interface)
 *Main interface showing camera capture and upload options*
